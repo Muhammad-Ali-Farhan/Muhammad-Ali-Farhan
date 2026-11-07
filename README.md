@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Muhammad Ali Farhan. Honors CS at Texas Tech. I work mostly in C++20 and Python on systems, market data, and performance.">
+<img src="assets/hero-terminal.svg" width="100%" alt="Muhammad Ali Farhan. Honors CS at Texas Tech. I work mostly in C++20 and Python on systems, market data, and performance.">
 
 <br><br>
 
